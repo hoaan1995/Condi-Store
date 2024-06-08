@@ -1,13 +1,12 @@
 # Condi Store
-Hello, Condi Store is back with a new home, in it's better than ever. Come and buy the best items of 2024 only at Condi Store.
+Hello customers, I am the owner of Condi Store, today Condi Store will launch a huge promotion with outstanding items such as Botnet Source Code and Exploits, you can build a strong personal Botnet strong!!
 
 Shop: https://condi.billgang.store/
 
-Coupon code: NEWHOME
+Coupon code: CONDI9999
 
 Group: @learneverything9
 
 Proof: @condiproof
 
 Support: @az369za
-.....
