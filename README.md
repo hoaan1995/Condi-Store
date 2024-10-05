@@ -8,7 +8,8 @@ Bot Features:
 - Newest ensure bots.
 - TCP & UDP methods for raw and bypass.
 - Xor string encryption.
-- Telnet loader. 
+- Telnet loader.
+
 C&C Features:
 - Using sqlite3 for anonymous database.
 - API web for any persion.
